@@ -1,0 +1,12 @@
+#app {
+  font-family: 'Exo 2', sans-serif;
+}
+.router-link-exact-active {
+  font-weight: bold;
+}
+.btn-success {
+  background-color: #4EB883;
+}
+.badge-success {
+  background-color: #4EB883;
+}
